@@ -1,0 +1,19 @@
+body{
+   background-image: url('dolphin.png');
+}
+h1{
+    text-align: center;
+}
+ li{
+    color:deeppink;
+
+    /*list-style:url('theDplphin.png');*/
+     /*padding: 0 0 4px 10px;*/
+
+}
+table{
+    border-collapse: collapse;
+}
+table,td,th{
+    border: 7px solid;
+}
